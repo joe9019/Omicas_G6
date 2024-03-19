@@ -37,14 +37,14 @@ Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proye
 +
 ### Bibliografía
 
-Wolfgang Maier, Eliminación de lecturas humanas de datos de secuenciación del SARS-CoV-2 (Materiales de capacitación de Galaxy) . https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.html En línea; consultado el martes 19 de marzo de 2024.
++ Wolfgang Maier, Eliminación de lecturas humanas de datos de secuenciación del SARS-CoV-2 (Materiales de capacitación de Galaxy) . https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.html En línea; consultado el martes 19 de marzo de 2024.
 
-Hiltemann, Saskia, Rasche, Helena et al., 2023 Galaxy Training: ¡Un marco poderoso para la enseñanza! PLOS Biología Computacional 10.1371/journal.pcbi.1010752
++ Hiltemann, Saskia, Rasche, Helena et al., 2023 Galaxy Training: ¡Un marco poderoso para la enseñanza! PLOS Biología Computacional 10.1371/journal.pcbi.1010752
 
-Batut et al., 2018 Capacitación en análisis de datos impulsada por la comunidad para sistemas celulares biológicos 10.1016/j.cels.2018.05.012
++ Batut et al., 2018 Capacitación en análisis de datos impulsada por la comunidad para sistemas celulares biológicos 10.1016/j.cels.2018.05.012
 
-Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020;382(8):727-733. doi:10.1056/NEJMoa2001017
++ Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020;382(8):727-733. doi:10.1056/NEJMoa2001017
 
-Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human respiratory disease in China. Nature. 2020;579(7798):265-269. doi:10.1038/s41586-020-2008-3
++ Wu F, Zhao S, Yu B, et al. A new coronavirus associated with human respiratory disease in China. Nature. 2020;579(7798):265-269. doi:10.1038/s41586-020-2008-3
 
-Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication, and pathogenesis. J Med Virol 2020; 92 (4): 418-423.
++ Chen Y, Liu Q, Guo D. Emerging coronaviruses: genome structure, replication, and pathogenesis. J Med Virol 2020; 92 (4): 418-423.
