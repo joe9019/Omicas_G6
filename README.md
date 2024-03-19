@@ -22,16 +22,19 @@ Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proye
 
 ### Objetivos:
 
-Obtenga datos de secuenciación viral (SARS-CoV-2) con lecturas humanas contaminantes de fuentes públicas
-
-Organizar los datos en una colección.
-
-Preprocesar y mapear los datos con respecto al genoma humano de referencia.
-
-Eliminar pares de lectura/lectura que se asignan al genoma humano de los datos originales
++ Obtenga datos de secuenciación viral (SARS-CoV-2) con lecturas humanas contaminantes de fuentes públicas
++ Organizar los datos en una colección.
++ Preprocesar y mapear los datos con respecto al genoma humano de referencia.
++ Eliminar pares de lectura/lectura que se asignan al genoma humano de los datos originales
 
 ### Flujo de trabajo
 
++
++
++
++
++
++
 ### Bibliografía
 
 Wolfgang Maier, Eliminación de lecturas humanas de datos de secuenciación del SARS-CoV-2 (Materiales de capacitación de Galaxy) . https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.html En línea; consultado el martes 19 de marzo de 2024.
