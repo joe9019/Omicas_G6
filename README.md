@@ -46,6 +46,11 @@ graph TD;
     Replace_Text_in_entire_line -->Unzip_Collection;
     seqtk_subseq -->Zip_Collection;
 ```
+### Proceso en GALAXY
+
+En el presente trabajo realizamos los siguientes pasos para la Eliminación de lecturas humanas de los datos de secuenciación del SARS-CoV-2
+1. Obtenemos los datos de la secuencia de SARS-CoV2por por medio de NCBI
+   ![Obtención_de_datos](imagenes/obtener_datos.png)
 
 ### Bibliografía
 
