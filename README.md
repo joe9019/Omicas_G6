@@ -40,6 +40,7 @@ graph TD;
     Replace_Text_in_entire_line -->Unzip_Collection;
     seqtk_subseq -->Zip_Collection;
 
+
 ### Bibliografía
 
 + Wolfgang Maier, Eliminación de lecturas humanas de datos de secuenciación del SARS-CoV-2 (Materiales de capacitación de Galaxy) . https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.html En línea; consultado el martes 19 de marzo de 2024.
