@@ -18,6 +18,8 @@ Varios coronavirus causan infecciones respiratorias que pueden ir desde el resfr
 
 Debido al elevado número de pruebas diagnósticas y a sus resultados poco concordantes, sobre todo, si lo relacionamos con los cuadros clínicos, surgen una serie de dudas y problemas en la interpretación de procesos, creando una verdadera incertidumbre. Dichas dudas son numerosas, pero las sintetizaremos en diversos apartados: Duración de la inmunidad, reinfecciones, capacidad real de la neutralización de los anticuerpos y aparición de nuevas patologías.(Chen Y, Liu Q, Guo D.2020)
 
+
+
 Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proyecto (4 archivos que representan 2 muestras secuenciadas de extremos emparejados de Illumina) se han depositado en Zenodo y se pueden cargar en Galaxy a través de sus URL. a continuación de eso, organizaremos los datos cargados en una colección en nuestro historial Galaxy para facilitar su manejo en el análisis. (Batut et al. 2018) 
 
 ### Objetivos:
@@ -29,12 +31,15 @@ Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proye
 
 ### Flujo de trabajo
 
-+
-+
-+
-+
-+
-+
+```mermaid
+graph TD;
+    Obtener_datos--> Leer_recorte_mapeo;
+    Trimmomatic-->Map with BWA-MEM;
+    Control_calidad-->Falco;
+    Samtools fastx  -->Select lines that match an expressionc;
+    Replace Text in entire line -->Unzip Collection;
+    seqtk_subseq -->Zip Collection;
+
 ### Bibliografía
 
 + Wolfgang Maier, Eliminación de lecturas humanas de datos de secuenciación del SARS-CoV-2 (Materiales de capacitación de Galaxy) . https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.html En línea; consultado el martes 19 de marzo de 2024.
