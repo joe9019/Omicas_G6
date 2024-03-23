@@ -39,7 +39,7 @@ graph TD;
     Samtools_fastx  -->Select_lines;
     Replace_Text_in_entire_line -->Unzip_Collection;
     seqtk_subseq -->Zip_Collection;
-
+```
 
 ### Bibliografía
 
