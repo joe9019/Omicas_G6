@@ -35,8 +35,7 @@ Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proye
 graph TD;
     Obtener_datos--> Leer_recorte_mapeo;
     Trimmomatic-->Map_with_BWA_MEM;
-    Control_calidad-->Falco;
-    Samtools_fastx  -->Select_lines;
+    Samtools_fastx  -->Select_lines_that_match_an_expression;
     Replace_Text_in_entire_line -->Unzip_Collection;
     seqtk_subseq -->Zip_Collection;
 ```
