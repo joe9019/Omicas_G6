@@ -47,8 +47,8 @@ graph TD;
 En el presente trabajo realizamos los siguientes pasos para la Eliminación de lecturas humanas de los datos de secuenciación del SARS-CoV-2.
 
 1. Obtenemos los datos de la secuencia de SARS-CoV2por por medio de NCBI
-   ![Obtención_de_datos](imagenes/obtener_datos.png)
-    ![Obtención_de_datos](imagenes/datos_crudos.png)
+   ![Obtención_de_datos](imagenes/datos_crudos.png)
+    ![Obtención_de_datos](imagenes/datos_crudos2.png)
 
 3. Realizamos el recorte y mapeo, utilizando la herramienta **Trimmomatic** y **Map with BWA-MEM**
   ![Obtención_de_datos](imagenes/corte_mapeo.png)
