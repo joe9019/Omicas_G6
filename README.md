@@ -6,6 +6,8 @@ Las muestras de pacientes para la detección de patógenos suelen estar “conta
 
 ![datos](https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-479v.jpg?sfvrsn=4dba955c_18%20479w)
 
+![datos](/PROYECTO-FINAL/imagenes/datos.png)
+
 La secuenciación genómica de los virus es un proceso relativamente nuevo y complejo que requiere de una gran inversión que va desde equipos de alto costo, recursos humanos capacitados, reactivos y otros insumos, y no todos los países del mundo y de la región tienen esa capacidad instalada en sus laboratorios de salud pública para hacerla”
 
 Usaremos datos de secuenciación de muestras de líquido de lavado broncoalveolar (BALF) obtenidas de los primeros pacientes con COVID-19 en China como nuestros datos de entrada. Dado que se espera que dichas muestras estén significativamente contaminadas con lecturas secuenciadas humanas, el efecto de los pasos de limpieza será mucho más evidente que para los datos de secuenciación amplicónica de hisopos de pacientes para diagnóstico. Sin embargo, los procesos de limpieza no dependen de ningún método de preprocesamiento o aislamiento de muestra en particular y podrían usarse sin modificaciones, por ejemplo, en muestras de SARS-CoV-2 amplificadas por ARTIC.(Batut et al., 2018)
