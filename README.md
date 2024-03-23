@@ -34,11 +34,11 @@ Los conjuntos de datos de lecturas secuenciadas utilizados en el siguiente proye
 ```mermaid
 graph TD;
     Obtener_datos--> Leer_recorte_mapeo;
-    Trimmomatic-->Map with BWA-MEM;
+    Trimmomatic-->Map_with_BWA_MEM;
     Control_calidad-->Falco;
-    Samtools fastx  -->Select lines that match an expressionc;
-    Replace Text in entire line -->Unzip Collection;
-    seqtk_subseq -->Zip Collection;
+    Samtools_fastx  -->Select_lines_that _match_an_expressionc;
+    Replace_Text_in_entire_line -->Unzip_Collection;
+    seqtk_subseq -->Zip_Collection;
 
 ### Bibliografía
 
