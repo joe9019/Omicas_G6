@@ -4,7 +4,7 @@
 
 Las muestras de pacientes para la detección de patógenos suelen estar “contaminadas” con ADN del huésped humano. Dicha contaminación, si no se elimina de los datos de secuenciación, puede plantear un problema con ciertos tipos de análisis de datos. Otro problema es que enviar las lecturas secuenciadas sin procesar con la "contaminación" de la secuencia humana incluida a una base de datos pública puede simplemente violar las regulaciones nacionales o institucionales para el manejo de datos de pacientes. Por esta segunda razón en particular, los investigadores tendrán que eliminar regularmente rastros de datos de secuenciación humana incluso de muestras que, por su naturaleza, deberían estar altamente enriquecidas solo para lecturas de patógenos, como es el caso, por ejemplo, de las muestras virales amplicónicas, en qué secuencias virales se han amplificado por PCR con cebadores específicos de virus antes de la secuenciación.(Hiltemann, Saskia, Rasche, Helena et al. 2023).
 
-![datos_crudos](/PROYECTO-FINAL/imagenes/datos_crudos.jpg)
+![datos_crudos](/PROYECTO-FINAL/imagenes/datos.png)
 
 La secuenciación genómica de los virus es un proceso relativamente nuevo y complejo que requiere de una gran inversión que va desde equipos de alto costo, recursos humanos capacitados, reactivos y otros insumos, y no todos los países del mundo y de la región tienen esa capacidad instalada en sus laboratorios de salud pública para hacerla”
 
