@@ -58,7 +58,7 @@ En el presente trabajo realizamos los siguientes pasos para la Eliminación de l
 5. Por ultimo Utilizamos los identificadores de lectura no humanos para extraer las lecturas de interés de las entradas originales, para lo cual utilizamos las siguientes herramientas; **Unzip Collection**, **seqtk_subseq**, **Zip Collection**, esto nos ayuda a descomprimir la coleccion de datos trabajados.
     ![Obtención_de_datos](imagenes/resultado.png)
 
-###Conclusion
+### Conclusion
 
 + La limpieza de datos es un procedimiento estándar para conjuntos de datos de secuenciación clínica y es un proceso bastante sencillo en Galaxy.
   
